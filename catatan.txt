@@ -1,1 +1,2 @@
 Aku sedang belajar Git
+Aku suka python dan Git
