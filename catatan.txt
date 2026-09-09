@@ -6,3 +6,5 @@ Aku sedang belajar branch
 Aku sudah menghubungkan Git lokal dengan GitHub
 Aku sedang melakukan commit lewat Github
 Aku membuat perubahan dari lokal
+Aku melakukan perubahan lewat github
+
