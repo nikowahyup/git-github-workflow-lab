@@ -4,3 +4,4 @@ Aku sangat ingin mahir menggunakan Git
 Aku suka seseorang yang sudah 3 tahun tidak kutemui
 Aku sedang belajar branch
 Aku sudah menghubungkan Git lokal dengan GitHub
+Aku sedang melakukan commit lewat Github
