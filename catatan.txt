@@ -1,4 +1,4 @@
-Aku sedang belajar Git dengan praktik
+
 Aku suka python dan Git
 Aku sangat ingin mahir menggunakan Git
 Aku suka seseorang yang sudah 3 tahun tidak kutemui
