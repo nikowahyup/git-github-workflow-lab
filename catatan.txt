@@ -2,7 +2,7 @@
 Aku suka python dan Git
 Aku sangat ingin mahir menggunakan Git
 Aku suka seseorang yang sudah 3 tahun tidak kutemui
-Aku sedang belajar branch
+Aku sangat ingin bertemu dengannya lagi
 Aku sudah menghubungkan Git lokal dengan GitHub
 Aku sedang melakukan commit lewat Github
 Aku membuat perubahan dari lokal
