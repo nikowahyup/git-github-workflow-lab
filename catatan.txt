@@ -3,7 +3,7 @@ Aku suka coding
 Aku sangat ingin mahir menggunakan Git
 Aku suka seseorang yang sudah 3 tahun tidak kutemui
 Aku sangat ingin bertemu dengannya lagi
-Aku sudah menghubungkan Git lokal dengan GitHub
+Aku tak akan membiarkan ingatan tentangnya hilang
 Aku sedang melakukan commit lewat Github
 Aku membuat perubahan dari lokal
 Aku melakukan perubahan lewat github
