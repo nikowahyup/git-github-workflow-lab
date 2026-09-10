@@ -9,7 +9,7 @@ Aku membuat perubahan dari lokal
 Aku melakukan perubahan lewat github
 Aku mencoba melakukan workflow Pull request
 Aku akan mencoba PR
-Aku sedang memahami Squash and merge
+Aku sedang mencoba Rebase and Merge
 Kali ini aku tidak akan salah branch hahahaha
 Aku akan menjadi software engineer yang hebat
 
