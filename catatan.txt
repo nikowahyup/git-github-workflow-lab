@@ -8,6 +8,7 @@ Aku sedang melakukan commit lewat Github
 Aku membuat perubahan dari lokal
 Aku melakukan perubahan lewat github
 Aku mencoba melakukan workflow Pull request
-Aku akan mencoba PR 
+Aku akan mencoba PR
+Aku sedang mencoba update PUll Request
 
 
