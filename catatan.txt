@@ -11,5 +11,6 @@ Aku mencoba melakukan workflow Pull request
 Aku akan mencoba PR
 Aku sedang memahami Squash and merge
 Kali ini aku tidak akan salah branch hahahaha
+Aku akan menjadi software engineer yang hebat
 
 
